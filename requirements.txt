@@ -1,0 +1,6 @@
+requests>=2.32
+python-dotenv>=1.0
+rich>=13.7
+prometheus-client>=0.20
+pytest>=8.0
+responses>=0.25

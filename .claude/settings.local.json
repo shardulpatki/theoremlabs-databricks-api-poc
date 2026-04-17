@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(C:/Theoremlabs/Armor1/Databricks API/.venv/Scripts/python.exe *)"
+    ]
+  }
+}
